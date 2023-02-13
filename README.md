@@ -7,9 +7,12 @@ alert.log,audit.log ,crit.log ,err.log  ,info.log, notice.log .
 ## TO WRITE A PYTHON CODE TO DISPLAY THE FOLLOWING FORMAT
 
 ### log type : alert (alert.log)
-Number of logs : <need to display number of logs>
-<log number> : <date and time> <log description> 
-<display frequent similar logs>
+
+Number of logs : (need to display number of logs)
+
+(log number) : (date and time) (log description) 
+
+(display frequent similar logs)
 
 ### log type : audit (audit.log)
 Number of logs : (need to display number of logs)
