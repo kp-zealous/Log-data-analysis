@@ -15,28 +15,43 @@ Number of logs : (need to display number of logs)
 (display frequent similar logs)
 
 ### log type : audit (audit.log)
+
 Number of logs : (need to display number of logs)
+
 (log number) : (date and time) (log description)
+
 (display frequently logged in user)
 
 ### log type : crit (crit.log)
+
 Number of logs : (need to display number of logs)
+
 (log number) : (date and time) (log description)
+
 (display frequently logged in user)
 
 ### log type : err (err.log)
+
 Number of logs : (need to display number of logs)
+
 (log number) : (date and time) (log description)
+
 (display frequent similar logs)
 
 ### log type : info(info.log)
+
 Number of logs : (need to display number of logs)
+
 (log number) : (date and time)(log description)
+
 (display frequent similar logs)
 
 ### log type : notice(notice.log)
+
 Number of logs : (need to display number of logs)
+
 (log number) : (date and time) (log description)
+
 (display frequent similar logs)
 
 The above code is contributed by Krithika Priya .PR
