@@ -1,5 +1,5 @@
 from statistics import mode
-print('for  info log')
+print('for  notice log')
 file=open(r"C:\Users\Krithika\Desktop\New folder\notice.log","r")
 cnt=0
 c=file.readlines()
